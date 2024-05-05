@@ -2,7 +2,7 @@
 ## 一元机场官网/官方地址
 官网登入注册地址： [一元机场](https://www.miaosu.xyz) 
 
-如果你要找好用的机场： [机场推荐整理](https://github.com/jichang11/laopai)
+如果你要找好用的机场： [机场推荐整理](https://github.com/jichang11111/laopai)
 
 注册地址： [一元机场2](https://xn--4gq62f52gdss.com/)
 
